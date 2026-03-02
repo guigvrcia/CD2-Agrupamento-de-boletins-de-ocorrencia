@@ -76,6 +76,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 4. Ajuste o caminho dos arquivos CSV na variável `caminho` (célula de leitura dos dados).
 5. Execute as células em ordem, de cima para baixo.
 
+Dataset: https://drive.google.com/drive/folders/1U5ROu3Lcwts9JwDpwN5pCFDFJUlar4jZ?usp=sharing
+
 ## 📁 Estrutura sugerida do repositório
 
 ```text
@@ -98,6 +100,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 - **Nome:** Arthur Guardieiro, Guilherme Nascimento, Rodrigo Martins
 - **Curso/Disciplina:** Sistemas de Informação - Ciencias de Dados II
 - **Instituição:** Universidade Federal de Uberlândia
+
 
 
 

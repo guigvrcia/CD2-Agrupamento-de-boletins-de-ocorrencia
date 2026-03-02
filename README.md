@@ -72,7 +72,7 @@ A análise foi estruturada em quatro blocos:
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
 ```
 
-3. Abra o notebook `Trablho_de_CD2 (2) (1).ipynb` no VS Code/Jupyter.
+3. Abra o notebook `Trablho_de_CD2.ipynb` no VS Code/Jupyter.
 4. Ajuste o caminho dos arquivos CSV na variável `caminho` (célula de leitura dos dados).
 5. Execute as células em ordem, de cima para baixo.
 
@@ -98,5 +98,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 - **Nome:** Arthur Guardieiro, Guilherme Nascimento, Rodrigo Martins
 - **Curso/Disciplina:** Sistemas de Informação - Ciencias de Dados II
 - **Instituição:** Universidade Federal de Uberlândia
+
 
 

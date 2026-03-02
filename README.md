@@ -39,8 +39,6 @@ A análise foi estruturada em quatro blocos:
    - Magnitude de associação com **V de Cramér**
    - Concentração/diversidade regional com **entropia**
 
-> Observação: este projeto **não utiliza regressão logística** na versão atual do notebook.
-
 ## 📊 Principais variáveis utilizadas
 
 - `natureza_principal_completa`
@@ -100,4 +98,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 - **Nome:** Arthur Guardieiro, Guilherme Nascimento, Rodrigo Martins
 - **Curso/Disciplina:** Sistemas de Informação - Ciencias de Dados II
 - **Instituição:** Universidade Federal de Uberlândia
+
 

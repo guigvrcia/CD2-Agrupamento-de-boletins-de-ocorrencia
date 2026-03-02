@@ -96,8 +96,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
 ## 👤 Autor
 
-Substitua por seu nome:
 
 - **Nome:** Arthur Guardieiro, Guilherme Nascimento, Rodrigo Martins
 - **Curso/Disciplina:** Sistemas de Informação - Ciencias de Dados II
 - **Instituição:** Universidade Federal de Uberlândia
+
